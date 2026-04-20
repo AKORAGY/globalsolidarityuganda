@@ -358,6 +358,8 @@ font:arial-black;
 .contact-info {
   max-width: 320px;
   text-align: left;
+  background:rgb(165, 71, 71);
+  
 }
 
 .contact-info h3 {

@@ -360,10 +360,10 @@ font:arial-black;
   border: 2px solid #1abc9c;
   border-radius: 15px;
   padding: 2em;
-  width: min(90%, 360px);
+  width: min(90%, 560px);
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.08);
 
   
@@ -385,12 +385,12 @@ font:arial-black;
 
 .social-links {
  background: #ffffff;
-  border: 2px solid #1abc9c;
+  border: 5px solid black;
   border-radius: 15px;
   padding: 2em;
   width: min(90%, 360px);
   display: flex;
-  flex-direction: column;
+  flex-direction: raw;
   gap: 15px;
   
 

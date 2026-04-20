@@ -12,7 +12,9 @@ body {
   background-color: #e6fcf7;
   line-height: 1.6;
 }
-
+icon{
+  border-radius: 40%;
+}
 /* Index Page Background */
 .logo-img {
   width: 50px;

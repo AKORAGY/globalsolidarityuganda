@@ -356,9 +356,16 @@ font:arial-black;
 
 /* CONTACT INFO TEXT */
 .contact-info {
-  max-width: 320px;
-  text-align: left;
-  background:rgb(165, 71, 71);
+ background: #ffffff;
+  border: 2px solid #1abc9c;
+  border-radius: 15px;
+  padding: 2em;
+  width: min(90%, 360px);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+
   
 }
 
@@ -377,7 +384,16 @@ font:arial-black;
 }
 
 .social-links {
-  margin-top: 15px;
+ background: #ffffff;
+  border: 2px solid #1abc9c;
+  border-radius: 15px;
+  padding: 2em;
+  width: min(90%, 360px);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  
+
 }
 
 .social-links a {

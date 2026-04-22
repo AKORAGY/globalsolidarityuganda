@@ -26,7 +26,7 @@ icon{
 .home-hero {
   min-height: 100vh;
   background: linear-gradient(to right, rgba(3, 168, 168, 0.9), rgb(250, 251, 252)),
-              url("project web\images\background.jpg") right center / cover no-repeat;
+              url("bg.jpeg") right center / cover no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
